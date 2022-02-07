@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="pt-BR">
 
-You can use the [editor on GitHub](https://github.com/fenyxrainbow/extraterrestrialstudies.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Studies that seek knowledge to the universe outside."
+ title="Extraterrestrial Studies">
+<link rel="stylesheet" type="text/css" href="style.css">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</head>
 
-### Markdown
+<body>
+    <header class="cabecalho">
+<img class="cabecalho-imagem" src="pixlr-bg-result.png" alt="Logo" >
+<nav class="cabecalho-menu">
+<a class="cabecalho-menu-item" href="https://veja.abril.com.br/noticias-sobre/extraterrestre/">Materials about Aliens
+</a>
+<a class="cabecalho-menu-item" href="https://www.cnnbrasil.com.br/tudo-sobre/missoes-espaciais/"> Reports on space missions</a>
+<a class="cabecalho-menu-item" href="https://brasil.elpais.com/noticias/marte/">Mission on Mars
+</a>
+</nav>
+    </header>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <main class="conteudo">
+        <section class="conteudo-principal">
+<div class="conteudo-principal-escrito">
+<h1 class="conteudo-principal-escrito-titulo">Extraterrestrial Studies
+</h1>
+<h2 class="conteudo-principal-escrito-subtitulo">Knowledge comes from another world
+</h2>
+<button class="conteudo-principal-escrito-botao" href="https://www.tecmundo.com.br/ciencia/170482-explosao-supernova-ter-causado-extincao-massa-terra.htm"> Supernova study
+</button>
+</div>
+<img class="conteudo-principal-imagem" src="landscape-g9359d7f42_640.png">
+        </section>
 
-```markdown
-Syntax highlighted code block
+        <section class="conteudo-secundario">
+<h3 class="conteudo-secundario-titulo">What is the purpose of the website?</h3>
+<p class="conteudo-secundario-paragrafo">
+   1. This site is for you to stay updated on universal news
+</p>
+<p class="conteudo-secundario-paragrafo">
+   2. See <strong> with reais, without any kind of false information</strong>
 
-# Header 1
-## Header 2
-### Header 3
+</p>
 
-- Bulleted
-- List
+<p class="conteudo-secundario-paragrafo">
+   3. And stay on top of all matters about the universe outside
+</p>
+        </section>
+    </main>
 
-1. Numbered
-2. List
+    <footer class="rodape">
+        <img class="rodape-imagem" src="Logo_transparente-removebg-preview.png" alt="Logo">
+    </footer>
+</body>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fenyxrainbow/extraterrestrialstudies.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html> 
